@@ -16,5 +16,5 @@
     </root>
 
     <logger name="org.springframework" level="INFO"/>
-    <logger name="com.vlotar.demo" level="DEBUG"/>
+    <logger name="com.harish.demo" level="DEBUG"/>
 </configuration>
