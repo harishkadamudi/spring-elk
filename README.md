@@ -53,6 +53,11 @@ Here you can play with existing REST API.
 <br />Configure your Kibana and play with your logs.
 <br />_**Note**: For Mac users the port 5601 should be added to Port Forwarding Rules of you Docker Virtual Machine_
 
+5. Connecting to MongoDB
+<br />  Execute below command from the shell, make sure MongoDB container id is picked.
+<br />  docker exec -it ca5ca0cbcf6e /entrypoint.sh mongo
+<br /> run mongo command to find persistent value.
+
 ## Stop the app
 Simply type: `docker-compose down`
 
