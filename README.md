@@ -6,6 +6,7 @@ This simple example demonstrates how easy you can enable quite powerful and adva
 
 **Stack of frameworks/technologies:**
 * Spring Boot
+* MongoDB
 * Swagger
 * Logback
 * Logstash
