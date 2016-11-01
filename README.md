@@ -57,6 +57,7 @@ Here you can play with existing REST API.
 <br />  Execute below command from the shell, make sure MongoDB container id is picked.
 <br />  docker exec -it ca5ca0cbcf6e /entrypoint.sh mongo
 <br /> run mongo command to find persistent value.
+<br />  db.person.find()
 
 ## Stop the app
 Simply type: `docker-compose down`
